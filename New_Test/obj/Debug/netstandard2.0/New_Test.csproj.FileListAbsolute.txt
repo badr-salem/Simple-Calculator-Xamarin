@@ -1,0 +1,11 @@
+E:\My_Work\New_Test\New_Test\New_Test\bin\Debug\netstandard2.0\New_Test.deps.json
+E:\My_Work\New_Test\New_Test\New_Test\bin\Debug\netstandard2.0\New_Test.dll
+E:\My_Work\New_Test\New_Test\New_Test\bin\Debug\netstandard2.0\New_Test.pdb
+E:\My_Work\New_Test\New_Test\New_Test\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\My_Work\New_Test\New_Test\New_Test\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\My_Work\New_Test\New_Test\New_Test\obj\Debug\netstandard2.0\New_Test.csproj.CoreCompileInputs.cache
+E:\My_Work\New_Test\New_Test\New_Test\obj\Debug\netstandard2.0\New_Test.AssemblyInfoInputs.cache
+E:\My_Work\New_Test\New_Test\New_Test\obj\Debug\netstandard2.0\New_Test.AssemblyInfo.cs
+E:\My_Work\New_Test\New_Test\New_Test\obj\Debug\netstandard2.0\XamlC.stamp
+E:\My_Work\New_Test\New_Test\New_Test\obj\Debug\netstandard2.0\New_Test.dll
+E:\My_Work\New_Test\New_Test\New_Test\obj\Debug\netstandard2.0\New_Test.pdb
